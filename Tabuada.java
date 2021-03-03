@@ -6,7 +6,7 @@ public class Tabuada {
 		
 		int tb=10;
 		
-		for(int i=1; i<=10; i++) {
+		for(int i=1; i<=tb; i++) {
 					
 			System.out.println(tb + ("x") + i + ("=") + (i*tb));
 			
