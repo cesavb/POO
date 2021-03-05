@@ -13,8 +13,9 @@ public class CesarAugustoTabuada {
 		
 		int tb=10, num;
 		
-		System.out.printf("Tabuada de Adição. Entre com o numero:");
+		System.out.printf("OlÃ¡ Cesar Augusto, entre com um numero:");
 		num = input.nextInt();
+		System.out.println("Tabuada de Somar do " + num);
 		
 		for(int i=0; i<=tb; i++) {
 			
